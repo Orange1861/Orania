@@ -1,0 +1,26 @@
+//Items
+item.raw_horse_meat.name=Raw Horse
+item.cooked_horse_meat.name=Cooked Horse
+item.fire_opal.name=Fire Opal
+item.salt.name=Salt
+item.salted_cooked_horse_meat.name= Salted Cooked Horse
+item.salted_rotten_flesh.name=Salted Rotten Flesh
+item.salted_porkchop_cooked.name=Salted Cooked Porkchop 
+item.salted_mutton_cooked.name=Salted Cooked Mutton
+item.salted_steak_cooked.name=Salted Cooked Steak
+item.salted_chicken_cooked.name=Salted Cooked Chicken
+item.salted_rabbit_cooked.name=Salted Cooked Rabbit
+item.salted_calamari.name=Salted Calamari
+item.cooked_calamari.name=Cooked Calamari
+item.raw_calamari.name=Raw Calamari
+
+//Blocks
+tile.fire_opal_block.name=Fire Opal Block
+tile.fire_opal_ore.name=Fire Opal Ore
+tile.fire_opal_torch.name=Fire Opal Torch
+tile.advanced_brine_filter_empty.name=Obsidian Brine Filter
+tile.advanced_brine_filter_full.name=Obsidian Brine Filter Full
+
+//Creative Tabs
+itemGroup.tabOrania=Orania
+itemGroup.tabDebug=Debug Tab
