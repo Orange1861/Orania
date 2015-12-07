@@ -1,0 +1,22 @@
+//Items
+item.raw_horse_meat.name=Raw Horse Meat
+item.cooked_horse_meat.name=Cooked Horse Meat
+item.fire_opal.name=Fire Opal
+item.salt.name=Sal
+item.salted_cooked_horse_meat.name= Salted Cooked Horse Meat
+item.salted_rotten_flesh.name=Carne Podrida Salada
+item.salted_porkchop_cooked.name=Chuleta de Cerdo Cocinada Salada
+item.salted_mutton_cooked.name=Cordero Cocinado Salado
+item.salted_steak_cooked.name=Filete Salado
+item.salted_chicken_cooked.name=Pollo Cocinado Salado
+item.salted_rabbit_cooked.name=Conejo Cocinado Salado
+item.salted_calamari.name=Salted Calamari
+item.cooked_calamari.name=Cooked Calamari
+item.raw_calamari.name=Raw Calamari
+
+//Blocks
+tile.fire_opal_block.name=Fire Opal Block
+tile.fire_opal_ore.name=Fire Opal Ore
+tile.fire_opal_torch.name=Fire Opal Torch
+
+itemGroup.tabOrania=Orania
